@@ -1,6 +1,8 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! Nice to see you.
 <p>Welcome to my page! </br> I'm <b>Sewoong Aiden Lee</b>, Software Developer from 🇰🇷<b>Korea</b> <br/>Currently living in 🇨🇦 <b>Manitoba, Canada</b>.</p>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="280" />
 <p>I have 2 years of hands-on experience in <b>web development</b>🌐 and <b>network engineering<b/>🖧 who dreams to learn and explore new challenge beyond programming🌎<p/>
+  
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -16,8 +18,9 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
 </p>
-
-- <h3>📫 How to reach me:</h3>
+<br/>
+<br/>
+ <h3>📫 How to reach me:</h3>
 <p>
 <a href="https://www.linkedin.com/in/sewoong-aiden-lee-b3029821b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:dltpdnd1234@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>

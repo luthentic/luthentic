@@ -1,7 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! Nice to see you.</h1>
-
-
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! Nice to see you.
 <p>Welcome to my page! </br> I'm <b>Sewoong Aiden Lee</b>, Software Developer from 🇰🇷<b>Korea</b> <br/>Currently living in 🇨🇦 <b>Manitoba, Canada</b>.</p>
+<p>I have 2 years of hands-on experience in <b>web development</b>🌐 and <b>network engineering<b/>🖧 who dreams to learn and explore new challenge beyond programming🌎<p/>
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />

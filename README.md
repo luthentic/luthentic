@@ -34,8 +34,12 @@
 ```javascript
 const Sewoong = {
   pronouns: "He" | "Him",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java, C++],
+  language: [Javascript, Typescript, Python, Java, C++],
   tools: [React, Jquery, Redux, Node, Jest, Docker],
+  function(teams){
+    Frontend Developer with teams
+    }
+  }
 ```
 - ⚡ Fun fact: I prefer dark mode because light attracts bugs🐛
 

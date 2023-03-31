@@ -2,7 +2,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! Nice to see you.
 <p>Welcome to my page! </br> I'm <b>Sewoong Aiden Lee</b>, Software Developer from 🇰🇷<b>Korea</b> <br/>Currently living in 🇨🇦 <b>Manitoba, Canada</b>.</p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="280" />
-<p>I have 2 years of hands-on experience in <b>web development</b>🌐 and <b>network engineering<b/>🖧 who dreams to learn and explore new challenge beyond programming🌎<p/>
+<p>I have 2 years of hands-on experience in <b>web development</b>🌐 and <b>network engineering</b>🖧 who dreams to learn and explore new challenge beyond programming🌎<p/>
   
 
 <p>

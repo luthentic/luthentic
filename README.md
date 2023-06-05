@@ -37,7 +37,7 @@
 const Sewoong = {
   pronouns: "He" | "Him",
   language: [C#, C++, Javascript, Typescript, Python, Java, ],
-  tools: [Unity,.net, React.js, Jquery, Node.js, Docker],
+  tools: [Unity,dotNet, React.js, Jquery, Node.js, Docker],
   function(teams){
     Software Developer with teams
     }

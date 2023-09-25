@@ -25,7 +25,7 @@
 <br/>
  <h3>📫 How to reach me:</h3>
 <p>
-<a href="[https://www.linkedin.com/in/sewoong-aiden-lee-b3029821b/](https://www.linkedin.com/in/sewoong-sei-lee-b3029821b/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://www.linkedin.com/in/sewoong-sei-lee-b3029821b/]" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:swlee5523@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.instagram.com/ricksewo/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 
@@ -34,12 +34,12 @@
 ### About Me  
 
 ```javascript
-const Sewoong = {
+const Sei = {
   pronouns: "He" | "Him",
-  language: [C#, Javascript, Python, Java ],
-  tools: [Salesfoce, Unity, dotNet, React.js, Jquery, Node.js, Docker],
-  function(Teams){
-    Looking for a team!
+  Core Language: [Javascript, Java],
+  Main Tools: [React.js, ReactNative.js, MongoDB, Node.js, Docker, AWS],
+  function(Team){
+    let Sei = Looking for a team!
     }
   }
 ```

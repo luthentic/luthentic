@@ -6,10 +6,10 @@
   
 
 <p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="ReactNative" src="https://img.shields.io/badge/-ReactNative-8f00ff?style=flat-square&logo=react&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-E34F26?style=flat-square&logo=.NET&logoColor=white" />
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="nunjucks" src="https://img.shields.io/badge/-Nunjucks-F7B93E?style=flat-square&logo=nunjucks&logoColor=white" />

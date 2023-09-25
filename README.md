@@ -1,6 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! Nice to see you.
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
-<p>Welcome to my page! </br> I'm <b>Sewoong Aiden Lee</b>, Software Developer in Oakville,ON, Canada</b>.</p>
+<p>Welcome to my page! </br> I'm <b>Sewoong Sei Lee</b>, Software Developer in Oakville,ON, Canada</b>.</p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="240" />
 <p>I have <b>2 years</b> of hands-on experience in Network Engineering🧰 and <b>1 year</b> experince in Web Development🌐 I dream to learn and explore new challenge to make world better🌎<p/>
   
@@ -25,8 +25,8 @@
 <br/>
  <h3>📫 How to reach me:</h3>
 <p>
-<a href="https://www.linkedin.com/in/sewoong-aiden-lee-b3029821b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:dltpdnd1234@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="[https://www.linkedin.com/in/sewoong-aiden-lee-b3029821b/](https://www.linkedin.com/in/sewoong-sei-lee-b3029821b/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:swlee5523@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.instagram.com/ricksewo/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 
 </p>

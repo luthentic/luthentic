@@ -35,11 +35,12 @@
 
 ```javascript
 const Sei = {
-  pronouns: "He" | "Him",
-  Core Language: [Javascript, Java],
-  Main Tools: [React.js, ReactNative.js, MongoDB, Node.js, Docker, AWS],
+  Pronouns: "He" | "Him",
+  Data Analytical Tools: [PowerBI, SQLserver, Pandas, Excel VBA, Access, 3D.js],
+  Programming Language: [Javascript, Python],
+  Programming Tools: [React.js, ReactNative.js, MongoDB, Node.js, Docker, AWS],
   function(Team){
-    let Sei = Looking for a team!
+    let Sei = Looking for a Team
     }
   }
 ```

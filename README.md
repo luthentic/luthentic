@@ -1,25 +1,31 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! Nice to see you.
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
-<p>Welcome to my page! </br> I'm <b>Sewoong Sei Lee</b>, Software Developer in Oakville,ON, Canada</b>.</p>
+<p>Welcome to my page🌎 </br> I'm <b>Sewoong Sei Lee</b>, Software Developer in Oakville,ON, Canada</b>.</p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="240" />
-<p>I have <b>2 years</b> of hands-on experience in Network Engineering🧰 and <b>1 year</b> experince in Web Development🌐 I dream to learn and explore new challenge to make world better🌎<p/>
+<p>I have <b>2 years</b> experience in Network Engineering and <b>1 year</b> experince in Web Development/Data Analysis. I dream to learn and explore new challenge to protect cyber security<p/>
   
+### What I'm doing currently
+I'm currently preparing for the Security+ and Network+ exams. After passing the exams, I'll intend to obtain the CompTIA CySA+.
+I'm also learning Network, Linux, and PowerShell. 
 
+### My TechStcack 🛠️
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="ReactNative" src="https://img.shields.io/badge/-ReactNative-8f00ff?style=flat-square&logo=react&logoColor=white" />
-  <img alt=".NET" src="https://img.shields.io/badge/-.NET-E34F26?style=flat-square&logo=.NET&logoColor=white" />
-  <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="nunjucks" src="https://img.shields.io/badge/-Nunjucks-F7B93E?style=flat-square&logo=nunjucks&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="WireShirk" src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Javascript-gray?style=for-the-badge&logo=javascript&labelColor=gray"/>
+  <img src="https://img.shields.io/badge/python-darkgreen?style=for-the-badge&logo=python&labelColor=darkgreen&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C/C++-gray?style=for-the-badge&logo=c&labelColor=gray&logoColor=white"/>
+  <img src="https://img.shields.io/badge/volatility-f0183c?style=for-the-badge&logo=volatility&labelColor=f0183c"/>
+  <img src="https://img.shields.io/badge/packet tracer-4287f5?style=for-the-badge&logo=packet-tracer&labelColor=4287f5"/>
+  <img src="https://img.shields.io/badge/bash-6b6b6b?style=for-the-badge&logo=shell&labelColor=6b6b6b&logoColor=white"/>
+  <img src="https://img.shields.io/badge/powershell-012456?style=for-the-badge&logo=powershell&labelColor=012456"/>
+  <img src="https://img.shields.io/badge/Network System-870f69?style=for-the-badge&logo=NetworkSystem&labelColor=870f69&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-0f8783?style=for-the-badge&logo=mysql&labelColor=0f8783&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-0451b5?style=for-the-badge&logo=virtualbox&labelColor=0451b5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&labelColor=orange&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&labelColor=blue&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-f77320?style=for-the-badge&logo=git&labelColor=f77320&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Penetrating Test-870f69?style=for-the-badge&logo=Penetrating Test&labelColor=469f69&logoColor=white"/>
 </p>
 <br/>
 <br/>
@@ -31,18 +37,5 @@
 
 </p>
 
-### About Me  
 
-```javascript
-const Sei = {
-  Pronouns: "He" | "Him",
-  Data Analytical Tools: [PowerBI, SQLserver, Pandas, Excel VBA, Access, 3D.js],
-  Programming Language: [Javascript, Python],
-  Programming Tools: [React.js, ReactNative.js, MongoDB, Node.js, Docker, AWS],
-  function(Team){
-    let Sei = Looking for a Team
-    }
-  }
-```
-- ⚡ Fun fact: I prefer dark mode because light attracts bugs🐛
 

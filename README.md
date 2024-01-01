@@ -1,15 +1,20 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! Nice to see you.
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
-<p>Welcome to my page🌎 </br> I'm <b>Sewoong Sei Lee</b>, Software Developer in Oakville,ON, Canada</b>.</p>
+<p>Welcome to my page🌎 </br> I'm <b>Sei (Sewoong) Lee</b>, Cloud Developer in Toronto, Canada</b>.</p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="240" />
-<p>I have <b>2 years</b> experience in Network Engineering and <b>1 year</b> experince in Web Development/Data Analysis. I dream to learn and explore new challenge to protect cyber security<p/>
+<p>I have <b>2 years</b> experience in Network Engineering and <b>1 year</b> experince in Web Development/Data Analysis. I dream to learn and explore new challenge for Cloud Engineering<p/>
   
 ### What I'm doing currently
-I'm currently preparing for the Security+ and Network+ exams. After passing the exams, I'll intend to obtain the CompTIA CySA+.
-I'm also learning Network, Linux, and PowerShell. 
+I'm currently preparing for the Azure Certs exams. I'm also learning about Linux, SQL, NoSQL, PowerShell, and Automation tools. 
 
 ### My TechStcack 🛠️
 <p>
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)"/>  
+  <img src="https://img.shields.io/badge/jenkins-%468C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="WireShirk" src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Javascript-gray?style=for-the-badge&logo=javascript&labelColor=gray"/>
@@ -25,7 +30,6 @@ I'm also learning Network, Linux, and PowerShell.
   <img src="https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&labelColor=orange&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&labelColor=blue&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-f77320?style=for-the-badge&logo=git&labelColor=f77320&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Penetrating Test-870f69?style=for-the-badge&logo=Penetrating Test&labelColor=469f69&logoColor=white"/>
 </p>
 <br/>
 <br/>

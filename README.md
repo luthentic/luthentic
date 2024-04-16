@@ -1,8 +1,8 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! Nice to see you.
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
-<p>Welcome to my page🌎 </br> I'm <b>Sei (Sewoong) Lee</b>, Cloud Developer in Toronto, Canada</b>.</p>
+<p>Welcome to my page🌎 </br> I'm <b>Chris (Sewoong) Lee</b>, Software Developer in Toronto, Canada</b>.</p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="240" />
-<p>I have <b>2 years</b> experience in Network Engineering and <b>1 year</b> experince in Web Development/Data Analysis. I dream to learn and explore new challenge for Cloud Engineering<p/>
+<p>I have <b>3 years</b> experience in Network Engineering and <b>1 year</b> experince in Web Development/Data Analysis.<p/>
   
 ### What I'm doing currently
 I'm currently preparing for the Azure Certs exams. I'm also learning about Linux, SQL, NoSQL, PowerShell, and Automation tools. 
@@ -13,7 +13,6 @@ I'm currently preparing for the Azure Certs exams. I'm also learning about Linux
   <img src="https://img.shields.io/badge/jenkins-%468C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="WireShirk" src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />

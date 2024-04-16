@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
 <p>Welcome to my page🌎 </br> I'm <b>Chris (Sewoong) Lee</b>, Software Developer in Toronto, Canada</b>.</p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="240" />
-<p>I have <b>3 years</b> experience in Network Engineering and <b>1 year</b> experince in Web Development/Data Analysis.<p/>
+<p>I have <b>2 years</b> experience in Network Engineering and <b>1 year</b> experince in Web Development/Data Analysis.<p/>
   
 ### What I'm doing currently
 I'm currently preparing for the Azure Certs exams. I'm also learning about Linux, SQL, NoSQL, PowerShell, and Automation tools. 
@@ -10,22 +10,15 @@ I'm currently preparing for the Azure Certs exams. I'm also learning about Linux
 ### My TechStcack 🛠️
 <p>
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)"/>  
-  <img src="https://img.shields.io/badge/jenkins-%468C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.net-%468C5263.svg?style=for-the-badge&logo=.net-&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="WireShirk" src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Javascript-gray?style=for-the-badge&logo=javascript&labelColor=gray"/>
-  <img src="https://img.shields.io/badge/python-darkgreen?style=for-the-badge&logo=python&labelColor=darkgreen&logoColor=white"/>
   <img src="https://img.shields.io/badge/C/C++-gray?style=for-the-badge&logo=c&labelColor=gray&logoColor=white"/>
-  <img src="https://img.shields.io/badge/volatility-f0183c?style=for-the-badge&logo=volatility&labelColor=f0183c"/>
-  <img src="https://img.shields.io/badge/packet tracer-4287f5?style=for-the-badge&logo=packet-tracer&labelColor=4287f5"/>
   <img src="https://img.shields.io/badge/bash-6b6b6b?style=for-the-badge&logo=shell&labelColor=6b6b6b&logoColor=white"/>
   <img src="https://img.shields.io/badge/powershell-012456?style=for-the-badge&logo=powershell&labelColor=012456"/>
   <img src="https://img.shields.io/badge/Network System-870f69?style=for-the-badge&logo=NetworkSystem&labelColor=870f69&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-0f8783?style=for-the-badge&logo=mysql&labelColor=0f8783&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VirtualBox-0451b5?style=for-the-badge&logo=virtualbox&labelColor=0451b5&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&labelColor=orange&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&labelColor=blue&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-f77320?style=for-the-badge&logo=git&labelColor=f77320&logoColor=white"/> 

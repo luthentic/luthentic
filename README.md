@@ -4,8 +4,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="240" />
 <p>I have <b>2 years</b> experience in Network Engineering and <b>1 year</b> experince in Web Development/Data Analysis.<p/>
   
-### What I'm doing currently
-I'm currently preparing for the Azure Certs exams. I'm also learning about Linux, SQL, NoSQL, PowerShell, and Automation tools. 
+
 
 ### My TechStcack 🛠️
 <p>
@@ -28,7 +27,6 @@ I'm currently preparing for the Azure Certs exams. I'm also learning about Linux
 <p>
 <a href="https://www.linkedin.com/in/chris-sewoong-lee-b3029821b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:swlee5523@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.instagram.com/ricksewo/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 
 </p>
 

@@ -13,15 +13,14 @@ I'm currently preparing for the Azure Certs exams. I'm also learning about Linux
   <img src="https://img.shields.io/badge/.net-%468C5263.svg?style=for-the-badge&logo=.net-&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp&labelColor=gray"/>
   <img src="https://img.shields.io/badge/Javascript-gray?style=for-the-badge&logo=javascript&labelColor=gray"/>
   <img src="https://img.shields.io/badge/C/C++-gray?style=for-the-badge&logo=c&labelColor=gray&logoColor=white"/>
   <img src="https://img.shields.io/badge/bash-6b6b6b?style=for-the-badge&logo=shell&labelColor=6b6b6b&logoColor=white"/>
-  <img src="https://img.shields.io/badge/powershell-012456?style=for-the-badge&logo=powershell&labelColor=012456"/>
   <img src="https://img.shields.io/badge/Network System-870f69?style=for-the-badge&logo=NetworkSystem&labelColor=870f69&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&labelColor=orange&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&labelColor=blue&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-f77320?style=for-the-badge&logo=git&labelColor=f77320&logoColor=white"/> 
+  
+  
+
 </p>
 <br/>
 <br/>

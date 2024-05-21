@@ -14,8 +14,7 @@ Feel free to connect with me swlee5523@gmail.com for all things tech or just to 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/luthentic)
 
 ### MY Projects:
-- 🌏[Personal Cloud](https://github.com/luthentic/FileSharingWeb)
-- 🎞️ [Perosnal SocialMedia](https://github.com/luthentic/MVCmongle)
+- 🌏[Cloudy](https://github.com/luthentic/FileSharingWeb)
 
 ### Talking about Personal Stuff:
 

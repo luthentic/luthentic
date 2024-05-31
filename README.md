@@ -20,7 +20,7 @@ Feel free to connect with me chrisselee0213@gmail.com for all things tech or jus
 
 - 🛠 &nbsp; I’m currently working with C#, ASP.NET, Azure, etc.
 - 🚀 &nbsp; I’m currently exploring C++, WEB Design, etc.
-- 📫 &nbsp; Reach me out: swlee5523@gmail.com.
+- 📫 &nbsp; Reach me out: chrisselee0213@gmail.com
 
 ### My Absolute Favorites:
 

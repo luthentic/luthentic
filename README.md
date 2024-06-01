@@ -11,7 +11,7 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 
 Feel free to connect with me chrisselee0213@gmail.com for all things tech or just to say hello!
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/luthentic)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/dltpdnd123k)
 
 ### MY Projects:
 - 🌏[Cloudy](https://github.com/luthentic/FileSharingWeb)
